@@ -38,10 +38,9 @@ Sample data: 101 John Doe, 102 Jane Smith, 103 Batly Beam, 104 Alape Alphar, 105
 ```
 JtronixAssessment/
   JtronixAssessment.csproj
-  Program.cs        entry point
+  Program.cs        Entry point
   MainForm.cs       UI and logic for all three questions
   README.md
-  screenshots/      add your screenshots here
 ```
 
 
