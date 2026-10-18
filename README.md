@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JTRONIX C# Desktop Internship Assessment
 
 A single C# Windows Forms application (.NET 8) that covers all three assessment questions. Each question is on its own tab of the same form.
